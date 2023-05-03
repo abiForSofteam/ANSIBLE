@@ -14,6 +14,8 @@
 <br /><br />aliyou2 : 192.168.56.12
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou2.png" />
 
+### <br /><br /> Les informations système des différentes machines sont les suivantes:
+
 
 ### Installation et configuration de Ansible sur la VM binate
 
