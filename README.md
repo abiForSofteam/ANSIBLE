@@ -6,6 +6,8 @@
  
 <img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/VMs.png" />
 
+
+
 Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
 
 
