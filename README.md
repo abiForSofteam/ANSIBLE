@@ -1,4 +1,11 @@
  ## Mise en oeuvre d'un environnement d'automatisation avec Ansible
+ 
+ Déployons trois VM pour la mise en place de cette automatosation :
+ - La première machine qui sera un système Centos, servira de noeud master, nous l'appellerons binate
+ - Les deux autres (une qui sera un système Centos, et l'autre un système Ubuntu) servirons noeud ????
 
-### Installation de Ansible sur le noeud master que nous appellerons binate
+ILLUSTRATION
 
+### Installation de Ansible sur la VM binate
+
+ILLUSTRATION
