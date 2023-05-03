@@ -11,7 +11,9 @@ binate  : 192.168.56.10
 aliyou1 : 192.168.56.11
 aliyou2 : 192.168.56.12
 
-
+<img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_binate.png" />
+<img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou1.png" />
+<img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou2.png" />
 
 
 ### Installation et configuration de Ansible sur la VM binate
