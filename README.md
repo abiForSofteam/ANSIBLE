@@ -6,6 +6,6 @@
 
 ILLUSTRATION
 
-### Installation de Ansible sur la VM binate
+### Installation et configuration de Ansible sur la VM binate
 
 ILLUSTRATION
