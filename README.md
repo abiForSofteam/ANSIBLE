@@ -7,9 +7,9 @@
 <img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/VMs.png" />
 
 Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
-binate : 912.168.56.10
-aliyou1 : 912.168.56.11
-aliyou2 : 912.168.56.12
+binate  : 192.168.56.10
+aliyou1 : 192.168.56.11
+aliyou2 : 192.168.56.12
 
 
 
