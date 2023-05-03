@@ -9,7 +9,6 @@
 Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
 
 binate  : 192.168.56.10
-
 <img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_binate.png" />
 aliyou1 : 192.168.56.11
 <img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou1.png" />
