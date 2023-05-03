@@ -2,7 +2,7 @@
  
  Déployons trois VM pour la mise en place de cette automatosation :
  - La première machine qui sera un système Centos, servira de noeud master, nous l'appellerons binate
- - Les deux autres (une qui sera un système Centos, et l'autre un système Ubuntu) servirons noeud ????
+ - Les deux autres (une qui sera un système Centos, et l'autre un système Ubuntu) servirons noeud ????; nous les appelerons respectivement aliyou1 et aliyou2
 
 ILLUSTRATION
 
