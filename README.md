@@ -8,7 +8,7 @@
 
 
 
-Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
+### <br /><br /> Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
 <br /><br />binate  : 192.168.56.10
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_binate.png" />
 <br />aliyou1 : 192.168.56.11
