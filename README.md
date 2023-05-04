@@ -5,7 +5,7 @@
  <li>Les deux autres (une qui sera un système Centos, et l'autre un système Ubuntu) servirons de noeuds cibles, nous les appelerons respectivement aliyou1 et aliyou2:</li>
  </ul>
  
-<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/VMs.png" />
+<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/lesVMs.png" />
 
 ### <br /><br /> Les adresses ip que j'ai attribuées à chacune des machines sont les suivantes:
 <br />binate  : 192.168.56.10
