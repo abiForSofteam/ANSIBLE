@@ -25,10 +25,12 @@ En effet, avant la mise en place de cette configuration, si à partir de la VM b
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2_2.png" />
 
 <br />Pourtant, aliyou1 et aliyou2 répondront si je lance la commande en prenant en compte leur adresse ip au lieu de leur nom (**ping 192.168.56.11**,  **ping 192.168.56.12**)
-<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
 
 La résolution de nom permet à chaque machine de reconnaître l'autre à partir de son nom, il n'est plus nécessaire de lui spécifier son adressse ip.
 
-Cette configuration se fait pour chaque VM dans le fichier suivant : **/etc/hosts**
+Cette configuration se fait **pour chaque VM** dans le fichier suivant : **/etc/hosts**
+<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/hosts.png" />
 
-ILLUSTRATION
+Après la mise en place de cette configuration, les différentes VMs répondent désormais
+<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
+
