@@ -34,5 +34,3 @@ Cette configuration se fait **pour chaque VM** dans le fichier suivant : **/etc/
 
 Après la mise en place de cette configuration, les différentes VMs répondent désormais
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
-
-![Abi Mimi](https://img.shields.io/badge/abimimi?style=for-the-badge&logo=abimimi&logoColor=red)
