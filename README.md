@@ -35,3 +35,4 @@ Cette configuration se fait **pour chaque VM** dans le fichier suivant : **/etc/
 Après la mise en place de cette configuration, les différentes VMs répondent désormais
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
 
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
