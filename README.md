@@ -19,6 +19,9 @@
 
 
 ### Installation et configuration de Ansible sur la VM binate
+Pour le système Centos, le package Ansible est disponible dans le dépôt EPEL (Extra Packages for Entreprise Linux)
+La commande pour installer ce dépôt est la suivante : 
+<br /> **sudo dnf install epel-release**
 ILLUSTRATION
 
 ### Mise en place de la résolution de nom sur les différentes machines
