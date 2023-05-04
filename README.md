@@ -22,7 +22,8 @@ ILLUSTRATION
 
 ### Mise en place de la résolution de nom sur les différentes machines
 En effet, avant la mise en place de cette configuration, si à partir de la VM binate je fais : **ping aliyou1** ou **ping aliyou2** , un message me dira que aliyou1 n'est pas reconnu, aliyou2 non plus; idem si on lance cette même commande à l'endroit de la VM binate, et depuis aliyou1 et aliyou2.
-Pourtant, aliyou1 et aliyou2 répondront si je lance la commande en prenant en compte leur adresse ip au lieu de leur nom ( **ping 192.168.56.11**,  **ping 192.168.56.12**)
+Pourtant, aliyou1 et aliyou2 répondront si je lance la commande en prenant en compte leur adresse ip au lieu de leur nom (**ping 192.168.56.11**,  **ping 192.168.56.12**)
+<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
 
 La résolution de nom permet à chaque machine de reconnaître l'autre à partir de son nom, il n'est plus nécessaire de lui spécifier son adressse ip.
 
