@@ -11,7 +11,7 @@
 <br />binate  : 192.168.56.10
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_binate.png" />
 <br /><br />aliyou1 : 192.168.56.11
-<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou1.png" />
+<br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou1b.png" />
 <br /><br />aliyou2 : 192.168.56.12
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ip_aliyou2.png" />
 
