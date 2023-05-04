@@ -29,6 +29,7 @@ En effet, avant la mise en place de cette configuration, si à partir de la VM b
 La résolution de nom permet à chaque machine de reconnaître l'autre à partir de son nom, il n'est plus nécessaire de lui spécifier son adressse ip.
 
 Cette configuration se fait **pour chaque VM** dans le fichier suivant : **/etc/hosts**
+La commande suivante permet de l'éditer : **sudo vi /etc/hosts**
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/hosts.png" />
 
 Après la mise en place de cette configuration, les différentes VMs répondent désormais
