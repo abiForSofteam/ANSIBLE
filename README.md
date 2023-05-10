@@ -49,7 +49,7 @@ Pour cela, nous copions le répertoire  /etc/ansible/ansible.cfg dans notre rép
 Ansible a besoin d'identifier les ma chines cibles sur lesquels il va opérer.
 Ces machines sont listées dans le fichier inventaire dont le chemin est spécifié dans le fichier de configuration que nous devons de copier dans notre fichier de configuration aliyoubinate_project; nous l'appellerons hosts.ini(capture)
 
-Ansible a également besoin d'identifier...</sub>
+Ansible a également besoin d'identifier</sub>...
 
 
 <sub>La communication entre la machine master et les machines cibles se fait par le protocole SSH.
@@ -59,7 +59,7 @@ Cette création sera faite via le compte root.
 Nous préférerons une connexion par clé ssh (qui est plus sécurisée)  à une connexion par mot de passe.
 Passons donc en utilisateur root : sudo -i
 Puis procédons à la création des clés (privée et publique):
-ssh-keygen -t rsa
+ssh-keygen -t rsa</sub>
 ...
 
-Le chemin des clés est spécifié lors de cette création, nous en aurons besoin par la suite.</sub>
+<sub>Le chemin des clés est spécifié lors de cette création, nous en aurons besoin par la suite.</sub>
