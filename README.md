@@ -44,9 +44,9 @@ Après la mise en place de cette configuration, les différentes VMs répondent 
 <sub>Par défaut, Ansible définit son espace de travail dans /etc/ansible... (capture)
 Nous pouvons changer ce comportement.
 Nous allons effectivement définir notre répertoire aliyoubinate_project comme répertoire de travail.
-Pour cela, nous copions le répertoire  /etc/ansible/ansible.cfg dans notre répertoire de travail aliyoubinate_project (capture)
+Pour cela, nous copions le répertoire  /etc/ansible/ansible.cfg dans notre répertoire de travail aliyoubinate_project (capture)</sub>
 
-Ansible a besoin d'identifier les ma chines cibles sur lesquels il va opérer.
+<sub>Ansible a besoin d'identifier les ma chines cibles sur lesquels il va opérer.
 Ces machines sont listées dans le fichier inventaire dont le chemin est spécifié dans le fichier de configuration que nous devons de copier dans notre fichier de configuration aliyoubinate_project; nous l'appellerons hosts.ini(capture)
 
 Ansible a également besoin d'identifier</sub>...
