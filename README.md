@@ -40,7 +40,7 @@ Après la mise en place de cette configuration, les différentes VMs répondent 
 <br /><img src="https://raw.githubusercontent.com/abiForSofteam/ANSIBLE/main/ping_aliyou1_aliyou2.png" />
 
 
-================
+## Configuration
 Par défaut, Ansible définit son espace de travail dans /etc/ansible... (capture)
 Nous pouvons changer ce comportement.
 Nous allons effectivement définir notre répertoire aliyoubinate_project comme répertoire de travail.
