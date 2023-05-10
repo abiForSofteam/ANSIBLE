@@ -41,7 +41,7 @@ Après la mise en place de cette configuration, les différentes VMs répondent 
 
 
 ## Configuration
-Par défaut, Ansible définit son espace de travail dans /etc/ansible... (capture)
+<sub>Par défaut, Ansible définit son espace de travail dans /etc/ansible... (capture)
 Nous pouvons changer ce comportement.
 Nous allons effectivement définir notre répertoire aliyoubinate_project comme répertoire de travail.
 Pour cela, nous copions le répertoire  /etc/ansible/ansible.cfg dans notre répertoire de travail aliyoubinate_project (capture)
@@ -62,4 +62,4 @@ Puis procédons à la création des clés (privée et publique):
 ssh-keygen -t rsa
 ...
 
-Le chemin des clés est spécifié lors de cette création, nous en aurons besoin par la suite.
+Le chemin des clés est spécifié lors de cette création, nous en aurons besoin par la suite.</sub>
