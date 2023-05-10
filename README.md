@@ -49,10 +49,10 @@ Pour cela, nous copions le répertoire  /etc/ansible/ansible.cfg dans notre rép
 Ansible a besoin d'identifier les ma chines cibles sur lesquels il va opérer.
 Ces machines sont listées dans le fichier inventaire dont le chemin est spécifié dans le fichier de configuration que nous devons de copier dans notre fichier de configuration aliyoubinate_project; nous l'appellerons hosts.ini(capture)
 
-Ansible a également besoin d'identifier...
+Ansible a également besoin d'identifier...</sub>
 
 
-La communication entre la machine master et les machines cibles se fait par le protocole SSH.
+<sub>La communication entre la machine master et les machines cibles se fait par le protocole SSH.
 Nous devons assurer que cette communication, essentielle pour le fonctionnement de Ansible, est bien en place.
 Pour cela, nous allons créer un utilisateur ansible sur les machines avec le même mot de passe de préférence.
 Cette création sera faite via le compte root.
